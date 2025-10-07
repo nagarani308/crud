@@ -7,7 +7,7 @@ $result = $conn->query("SELECT * FROM students");
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Student List</title>
+  <title>All Student List</title>
   <style>
     body { font-family: Arial; margin: 20px; }
     table { border-collapse: collapse; width: 80%; }
